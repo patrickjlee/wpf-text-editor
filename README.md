@@ -1,5 +1,6 @@
 # wpf-text-editor
 Used to format .txt file transcripts of edX course videos to remove excessive line breaks.
+(See https://pjlee.net/blog/a-little-program-to-automate-reformatting-edx-video-transcript-files-more-nicely for more details).
 Instructions: 
 In the edX course, click on the .txt file link for the video. This will normally put the transcript file (e.g. VideoTranscript.txt) in your downloads folder.
 Run the WpfTextEditor project (in debug mode will do).
